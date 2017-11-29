@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<!--#3399ff-->
+<html>
+<head>
+  <meta charset="URF-8">
+  <meta name="port" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="CSS" />
+</head>
+<body>
+  <section class="home-pic">
+  <div class="topbar">
+<header id="Home">
+  <h1 class="home-title">Developers</h1>
+  <nav>
+    <ul>
+      <li><a href="#Home">Home</a></li>
+      <li><a href="#About">About</a></li>
+      <li><a href="#Contact">Contact</a></li>
+    </ul>
+  </nav>
+</header>
+</div>
+
+<div class="content">
+  <div class="home-about">
+      <h1>Websites are created here just for you!</h1>
+      <p class="home-content"><span>Using languages such as CSS, HTML5, Java, JavaScript and JQuery.</span>
+         we can create websites that is the most suitable option for you.
+      </p>
+  </div>
+  <div class="home-button">
+    <a href="" class="button">See Our Work</a>
+  </div>
+</section>
+<section>
+  <div class="about-title">
+    <h1>About us</h1>
+  </div>
+
+    <div class="about about-markus">
+      <h1>Markus</h1>
+      <p>Nerdguy</p>
+    </div>
+    <div class="about about-mattias">
+      <h1>Mattias</h1>
+      <p>Coolguy</p>
+    </div>
+    <div class=about-mm>
+      <h1>How it started</h1>
+      <p>Friends</p>
+    </div>
+  </section>
+
+
+  <section>
+  <div class="work-title">
+    <h1>Our Work</h1>
+  </div>
+    <!--       WORK1
+    ________________________-->
+    <div class="work-project">
+      <h1>Project title</h1>
+      <p>Text</p>
+      <figure>
+        <img src="" alt="">
+      </figure>
+    </div>
+    <!--       WORK2
+    ________________________-->
+    <div class="work-project">
+      <h1>Project title</h1>
+      <p>Text</p>
+      <figure>
+        <img src="" alt="">
+      </figure>
+    </div>
+    <!--       WORK3
+    ________________________-->
+    <div class="work-project">
+      <h1>Project title</h1>
+      <p>Text</p>
+      <figure>
+        <img src="" alt="">
+      </figure>
+    </div>
+  </section>
+
+  <footer>
+      <div class"Contact">
+        <h1>Contact Us</h1>
+      </div>
+      <div class=contact-button>
+          <ul>
+            <li><a href="">Facebook</a></li>
+              <ul>
+                <li><a href="">Mattias</a></li>
+                <li><a href="">Markus</a></li>
+              </ul>
+            <li><a href="">Email</a>
+              <ul>
+                <li><a href="">Mattias</a></li>
+                <li><a href="">Markus</a></li>
+              </ul>
+            </li>
+            <li><a href="">Skype</a>
+              <ul>
+                <li><a href="">Mattias</a></li>
+                <li><a href="">Markus</a></li>
+              </ul>
+            </li>
+          </ul>
+      </div>
+</div>
+  </footer>
+</html>
